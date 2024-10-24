@@ -43,6 +43,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Contraseña"
+        android:layout_marginTop="10dp"
         android:textColor="#81b879"
         android:layout_marginStart="60dp"/>
 
