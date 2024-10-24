@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="qta2">Qta2</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="usuario">Usuario</string>
+    <string name="inicio_de_sesi_n">Inicio de sesión</string>
+    <string name="solucionar">Solucionar</string>
+    <string name="quitar_fragmento">Quitar fragmento</string>
+    <string name="dos_palabras">Dos Palabras</string>
+    <string name="dos_mitades">Dos mitades</string>
 </resources>

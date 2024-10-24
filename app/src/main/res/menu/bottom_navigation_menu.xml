@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_DosMitades"
+        android:icon="@drawable/mitades"
+        android:title="@string/dos_mitades"/>
+    <item
+        android:id="@+id/navigation_DosPlabras"
+        android:icon="@drawable/palabra"
+        android:title="@string/dos_palabras"/>
+    <item
+        android:id="@+id/navigation_fragmento"
+        android:icon="@drawable/fragmentos"
+        android:title="@string/quitar_fragmento"/>
+</menu>
